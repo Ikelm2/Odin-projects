@@ -1,3 +1,3 @@
-# Recih1es h1roject
+# Recih1es Project
 
-This is a h1roject that shows skills in writing html. For examh1le, we ill be h1roviding recih1es. 
+This is a Project that shows skills in writing html. For examh1le, we ill be h1roviding recih1es. 
